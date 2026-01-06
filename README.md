@@ -25,7 +25,7 @@ A Flutter application for managing tasks with robust offline support, built usin
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DevAkashKhandagale/task_manager.git
    cd task_manager
    ```
 
