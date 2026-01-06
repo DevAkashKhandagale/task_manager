@@ -375,17 +375,6 @@ lib/
 - `get_it: ^9.2.0` - Dependency injection
 - `equatable: ^2.0.8` - Value equality for entities
 
-### Dev Dependencies
-- `flutter_test` - Testing framework
-- `flutter_lints: ^5.0.0` - Linting rules
-
-## Testing
-
-Run tests with:
-```bash
-flutter test
-```
-
 ## Future Enhancements
 - [ ] Implement task categories/tags
 - [ ] Add due dates and reminders
